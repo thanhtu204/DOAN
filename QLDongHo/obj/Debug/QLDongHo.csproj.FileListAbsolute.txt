@@ -1,0 +1,21 @@
+D:\ASP\QLDongHo\QLDongHo\bin\QLDongHo.dll.config
+D:\ASP\QLDongHo\QLDongHo\bin\QLDongHo.dll
+D:\ASP\QLDongHo\QLDongHo\bin\QLDongHo.pdb
+D:\ASP\QLDongHo\QLDongHo\obj\Debug\QLDongHo.csproj.AssemblyReference.cache
+D:\ASP\QLDongHo\QLDongHo\obj\Debug\QLDongHo.csproj.CoreCompileInputs.cache
+D:\ASP\QLDongHo\QLDongHo\obj\Debug\QLDongHo.dll
+D:\ASP\QLDongHo\QLDongHo\obj\Debug\QLDongHo.pdb
+C:\Users\Hoàng Huân Laptop\Downloads\QLDongHo\QLDongHo\bin\QLDongHo.dll.config
+C:\Users\Hoàng Huân Laptop\Downloads\QLDongHo\QLDongHo\bin\QLDongHo.dll
+C:\Users\Hoàng Huân Laptop\Downloads\QLDongHo\QLDongHo\bin\QLDongHo.pdb
+C:\Users\Hoàng Huân Laptop\Downloads\QLDongHo\QLDongHo\obj\Debug\QLDongHo.csproj.AssemblyReference.cache
+C:\Users\Hoàng Huân Laptop\Downloads\QLDongHo\QLDongHo\obj\Debug\QLDongHo.csproj.CoreCompileInputs.cache
+C:\Users\Hoàng Huân Laptop\Downloads\QLDongHo\QLDongHo\obj\Debug\QLDongHo.dll
+C:\Users\Hoàng Huân Laptop\Downloads\QLDongHo\QLDongHo\obj\Debug\QLDongHo.pdb
+C:\Users\Windows 10\Desktop\QLDongHo\QLDongHo\bin\QLDongHo.dll.config
+C:\Users\Windows 10\Desktop\QLDongHo\QLDongHo\bin\QLDongHo.dll
+C:\Users\Windows 10\Desktop\QLDongHo\QLDongHo\bin\QLDongHo.pdb
+C:\Users\Windows 10\Desktop\QLDongHo\QLDongHo\obj\Debug\QLDongHo.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\QLDongHo\QLDongHo\obj\Debug\QLDongHo.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\QLDongHo\QLDongHo\obj\Debug\QLDongHo.dll
+C:\Users\Windows 10\Desktop\QLDongHo\QLDongHo\obj\Debug\QLDongHo.pdb

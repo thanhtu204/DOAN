@@ -1,0 +1,59 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="QLDongHo.Admin1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Watch Store</title>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+ <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet" />
+    <style>
+        .transparent-navbar {
+            background-color: rgba(0, 0, 0, 0.5) !important; /* Màu đen nửa trong suốt */
+        }
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+             <nav class="navbar navbar-expand-lg navbar-dark transparent-navbar">
+  <a class="navbar-brand" href="QuanLyDongHo.aspx">
+    <i class="fas fa-home"></i> Admin Page
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+              <li class="nav-item">
+        <a class="nav-link" href="QuanLyDongHo.aspx"><i class="fas fa-shopping-cart"></i> Quản lý sản phẩm </a>
+      </li>
+
+      <li class="nav-item">
+        <a class="nav-link" href="QuanLyKhachHang.aspx"><i class="fas fa-user"></i>Quản lý khách hàng</a>
+      </li>
+      <!-- Thêm biểu tượng khác tại đây -->
+      <li class="nav-item">
+        <a class="nav-link" href="#"><i class="fas fa-info-circle"></i> Thông tin liên hệ</a>
+      </li>
+           <li class="nav-item">
+       <a class="nav-link" href="DangNhap.aspx"><i class="fas fa-sign-out-alt"></i> Đăng Nhập User</a>
+   </li>
+                      <li class="nav-item">
+        <a class="nav-link" href="ThemDongHo.aspx"><i class="fas fa-shopping-cart"></i> Thêm sản phẩm </a>
+      </li>
+    </ul>
+  </div>
+</nav>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
